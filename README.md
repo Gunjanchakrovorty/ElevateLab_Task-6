@@ -16,8 +16,8 @@ Understand what makes a password strong and evaluate multiple passwords using an
 
 1. Created 3 passwords:
    - `hello123` (Weak)
-   - `Gamer@2024` (Moderate)
-   - `Th1s!s@Sup3rS3cur3P@ss` (Strong)
+   - `cssscript.com` (Moderate)
+   - `GeeksforGeeks@1234` (Strong)
 2. Tested each password on **passwordmeter.com**.
 3. Noted down strength scores and feedback.
 4. Summarized password best practices.
@@ -30,8 +30,8 @@ Understand what makes a password strong and evaluate multiple passwords using an
 | Screenshot | Description |
 |------------|-------------|
 | ![Weak Password](https://phppot.com/wp-content/uploads/2014/10/password-week-medium-strength-response.jpg) | ❌ **Weak Password (`hello123`)** – Easily guessable; low complexity, short length. |
-| ![Medium Password](https://www.cssscript.com/wp-content/uploads/2025/05/password-strength-checker.webp) | ⚠️ **Moderate Password (`Gamer@2024`)** – Better structure, but still not strong enough for sensitive accounts. |
-| ![Strong Password](https://media.geeksforgeeks.org/wp-content/uploads/20230923231124/z9-min.png) | ✅ **Strong Password (`Th1s!s@Sup3rS3cur3P@ss`)** – Long, complex, and contains all character types. |
+| ![Medium Password](https://www.cssscript.com/wp-content/uploads/2025/05/password-strength-checker.webp) | ⚠️ **Moderate Password (`cssscript.com`)** – Better structure, but still not strong enough for sensitive accounts. |
+| ![Strong Password](https://media.geeksforgeeks.org/wp-content/uploads/20230923231124/z9-min.png) | ✅ **Strong Password (`GeeksforGeeks@1234`)** – Long, complex, and contains all character types. |
 | ![Password Tips](https://bitwarden.com/assets/7yYK16b2bBdsWbkG9cvijf/f3cbe2d1caadfe16889d8736eeaa383f/pw-strength-test-chart-blue.webp?fm=jpg&q=80&w=1116) | 📌 **Password Tips Summary** – General guidance from password checker on how to improve password strength. |
 
 ---
